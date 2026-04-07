@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spotify-analyzer"
+version = "1.0.0"
+description = "CLI tool for Spotify track ranking and album ordering"
+requires-python = ">=3.10"
+dependencies = [
+    "librosa>=0.10.0",
+    "numpy>=1.24.0",
+    "scipy>=1.10.0",
+    "rich>=13.0.0",
+    "click>=8.1.0",
+    "soundfile>=0.12.0",
+]
+
+[project.scripts]
+spotify_analyzer = "spotify_analyzer.cli:cli"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["spotify_analyzer*"]
