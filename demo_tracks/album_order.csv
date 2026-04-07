@@ -1,0 +1,13 @@
+position,filename,bpm,key,energy_level,valence,duration_s,rationale
+1,01_opener.mp3,129.2,E,0.18108,0.434,185.0,Opener: highest intro impact & energy to hook listener
+2,11_anthemic.mp3,112.3,B,0.20641,0.403,215.0,Momentum: sustains or escalates opening energy
+3,10_pre_closer.mp3,143.6,A#,0.17977,0.478,205.0,Peak zone (position 3): high energy + strong score
+4,02_momentum.mp3,136.0,A,0.15962,0.46,200.0,Peak zone (position 4): high energy + strong score
+5,09_rebuild.mp3,143.6,G#,0.14519,0.475,198.0,Peak zone (position 5): high energy + strong score
+6,07_ballad.mp3,129.2,A,0.0588,0.427,255.0,Emotional valley: softer/slower track for contrast
+7,12_resolution.mp3,136.0,B,0.06563,0.447,260.0,Emotional valley: softer/slower track for contrast
+8,06_valley_soft.mp3,143.6,C,0.07461,0.465,235.0,Emotional valley: softer/slower track for contrast
+9,08_interlude.mp3,129.2,D,0.08289,0.431,180.0,Emotional valley: softer/slower track for contrast
+10,05_groove.mp3,136.0,F,0.14722,0.452,210.0,Emotional valley: softer/slower track for contrast
+11,03_peak_energy.mp3,129.2,G,0.18902,0.438,195.0,Pre-closer: energy rebuild before finale
+12,04_hype.mp3,117.5,C,0.16452,0.417,178.0,Closer: anthemic peak — sends listener off on a high
